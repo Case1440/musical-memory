@@ -49,3 +49,8 @@ https://github.com/Case1440/musical-memory/blob/main/Untitled_%20Nov%2018%2C%202
 ## License
 
 Open Source
+
+```
+/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
+```
